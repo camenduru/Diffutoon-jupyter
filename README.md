@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Diffutoon-jupyter/blob/main/Diffutoon_jupyter.ipynb) | Diffutoon_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Diffutoon-jupyter/blob/main/Diffutoon_jupyter.ipynb) | Diffutoon_color_jupyter
 
 ### 🧬 Code
 https://github.com/modelscope/DiffSynth-Studio/tree/main/examples/Diffutoon
