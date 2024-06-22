@@ -20,6 +20,8 @@ https://ecnu-cilab.github.io/DiffutoonProjectPage/
 
 ### 🖼 Output
 
+Diffutoon_color_jupyter
+
 https://github.com/camenduru/Diffutoon-jupyter/assets/54370274/e8741f4b-8925-488b-95b6-3812d219af06
 
 ### 🏢 Sponsor
